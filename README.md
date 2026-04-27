@@ -1,39 +1,39 @@
- Retail Sales Dashboard (Power BI Project)
+ Retail Sales Dashboard 
 
 ![Dashboard Preview](./retails%20%20sales%20dashboard.png)
 
 ---
 
-### 📌 Project Overview
+### Project Overview
 
-This project presents an **interactive Retail Sales Dashboard** built using Power BI. It provides deep insights into sales performance, customer behavior, and profitability across different regions and categories.
+This project presents an **Retail Sales Dashboard** built using Power BI. It provides deep insights into sales performance, customer behavior, and profitability across different regions and categories.
 
 The dashboard helps stakeholders quickly understand key business metrics and make data-driven decisions.
 
 ---
 
-### 🚀 Key Features
+### Key Features
 
-* 📦 **Total Quantity Sold:** 3M+ units
-* 💰 **Total Revenue:** $61.5M
-* 📉 **Total Cost (COGS):** $34.7M
-* 📈 **Total Profit:** $26.7M
-* 📊 **Profit Margin:** 44%
-
----
-
-### 📍 Insights Provided
-
-* 🔝 **Top Customers Analysis**
-* 🌍 **Revenue Distribution by Location**
-* 👥 **Customer Segmentation (Age Group)**
-* 💳 **Payment Method Trends**
-* 🛍️ **Product Price Category Performance**
-* 🧑‍💼 **Top Salesperson Identification**
+**Total Quantity Sold:** 3M+ units
+**Total Revenue:** $61.5M
+**Total Cost (COGS):** $34.7M
+**Total Profit:** $26.7M
+**Profit Margin:** 44%
 
 ---
 
-### 🎯 Key Highlights
+### Insights Provided
+
+**Top Customers Analysis**
+**Revenue Distribution by Location**
+**Customer Segmentation (Age Group)**
+**Payment Method Trends**
+**Product Price Category Performance**
+**Top Salesperson Identification**
+
+---
+
+### Key Highlights
 
 * Most profitable brand: **Shortbread**
 * Top location: **Philadelphia**
@@ -63,7 +63,7 @@ The dashboard helps stakeholders quickly understand key business metrics and mak
 
 ---
 
-### 📈 Use Cases
+### Use Cases
 
 * Business performance tracking
 * Sales trend analysis
@@ -72,7 +72,7 @@ The dashboard helps stakeholders quickly understand key business metrics and mak
 
 ---
 
-### 🙋‍♀️ About Me
+### About Me
 
 I am a data enthusiast with experience in data analysis and visualization. Passionate about turning raw data into meaningful insights.
 
